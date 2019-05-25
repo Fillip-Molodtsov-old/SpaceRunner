@@ -1,0 +1,7 @@
+9 ( lvl: 5 ) - lucky
+5 ( lvl: 5 ) - playerTried
+5 ( lvl: 5 ) - Fil
+4 ( lvl: 4 ) - Player1
+3 ( lvl: 3 ) - pong
+1 ( lvl: 3 ) - p1
+0 ( lvl: 3 ) - tro
